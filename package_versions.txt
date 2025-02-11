@@ -193,7 +193,7 @@ github.com/containerd/btrfs                                                   v1
 github.com/containerd/cgroups                                                 v1.0.4                                             go-module  
 github.com/containerd/console                                                 v1.0.3                                             go-module  
 github.com/containerd/containerd                                              v0.0.0-20230330203013-2806fc105739                 go-module  
-github.com/containerd/containerd                                              v1.6.19                                            go-module  
+github.com/containerd/containerd                                              v1.6.19                                            go-module   
 github.com/containerd/continuity                                              v0.3.0                                             go-module  
 github.com/containerd/fifo                                                    v1.0.0                                             go-module  
 github.com/containerd/go-cni                                                  v1.1.6                                             go-module  
