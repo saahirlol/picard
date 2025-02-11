@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "j"
+
+sudo add-apt-repository ppa:musicbrainz-developers/stable
+sudo apt update
+sudo apt-get install -y picard
+# Find and remove Singleton files in all profile directories
+
+
+
+bash /usr/bin/picard
