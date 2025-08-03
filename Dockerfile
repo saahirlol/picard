@@ -1,6 +1,6 @@
 FROM ghcr.io/linuxserver/baseimage-selkies:debianbookworm
 
-# set version label
+# set version labell
 ARG BUILD_DATE
 ARG VERSION
 ARG PICARD_VERSION
